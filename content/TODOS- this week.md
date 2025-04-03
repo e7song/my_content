@@ -1,0 +1,11 @@
+- CSE 190
+	- DFS $\checkmark$
+	- BFS
+	- A*
+	- ?
+- CSE 110
+	- Lab 1
+- DSC 102
+- COGS 13
+	- join slack $\checkmark$
+	- lecture 1
