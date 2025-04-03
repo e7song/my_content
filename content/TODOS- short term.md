@@ -1,6 +1,0 @@
-- set up obsidian $\checkmark$
-- set up quartz
-	- https://www.youtube.com/watch?v=6s6DT1yN4dw&t=227s
-- set up dsc 40a repo $\checkmark$
-- OpenGL?
-- machine learning?
