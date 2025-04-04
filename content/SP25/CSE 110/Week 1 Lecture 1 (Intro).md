@@ -36,3 +36,21 @@ SWE
 - some major activities
 	- what software to build
 	- how to build it (easier part)
+
+#### Tech Talk
+- editor choice thoughts
+	- lots are about job faced and efficiency focus
+		- large scale work versus small edits
+	- flow and efficiency
+		- hands on keyboard
+		- window switching
+		- hot reload / reduce code-compile-review cycle
+			- less friction isn't always good
+	- environment
+		- local versus cloud
+	- biggest of all
+		- personal preference or organization mandate
+			- on your own, it's up to you
+				- in an organization, it helps with coherency to keep everyone on the same page
+- VCS (version control system)
+	- 
