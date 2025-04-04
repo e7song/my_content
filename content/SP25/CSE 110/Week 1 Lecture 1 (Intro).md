@@ -53,4 +53,32 @@ SWE
 			- on your own, it's up to you
 				- in an organization, it helps with coherency to keep everyone on the same page
 - VCS (version control system)
-	- 
+	- is hard, but important
+	- git
+		- introduced in 2005
+		- was for open source concept
+	- Github vs Git
+		- hosted git
+		- there are many other options
+		- Github is clearly a big deal, but it's not necessarily the best/only option
+- The (initial) failure of polyglot SCM
+	- a lot of big companies use Mercurial instead of Git
+	- the best technology does not always win
+		- there are a lot of market forces
+- Markdown
+	- never use a technology until you understand the problem it is trying to solve
+	- ad hoc standard "markup language" initially for blog posting and now for everything
+		- bloggers didn't want to write their posts in HTML; they thought it was too complicated
+		- meant to avoid the complexity of HTML
+	- yet, when you want to do something more reasonable with it you often have to use HTML and almost always for publishing it is converted to HTML
+	- we will use GitHub flavored markdown
+		- some goodies to look into
+			- MermaidJS
+			- typing issues
+		- project use
+			- readmes
+			- documentations
+			- can put Mermaid in the Github markdown!
+
+#### Big concluding tip
+- know what your tools are for
