@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian", "content/todos-private", "content/SP25/CSE 110/coursework-private"],
+    ignorePatterns: ["private", "templates", ".obsidian", "content/todos-private", "content/SP25/CSE 110-private", "content/SP25/CSE 110-private/coursework-private"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
