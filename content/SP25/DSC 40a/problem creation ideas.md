@@ -1,0 +1,4 @@
+- GD w/ momentum (final?)
+- non-convex loss function (HW2?)
+	- multiple critical points
+	- make it easy to take the derivative
